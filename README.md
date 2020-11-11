@@ -12,3 +12,9 @@
 *   The AICrowd AutoGrader picks up the Dockerfile provided with the repository, builds it and then mounts the tests folder in the container. Once inference is made, the final results are checked with the ground truth.
 
 ***For more submission related information, please check [the AIcrowd Challenge page](https://www.aicrowd.com/challenges/food-recognition-challenge)
+
+## Notebooks and Files  
+
+This repository includes Notebooks and code relevant to this challenge.
+
+Also see the [official starter kit](http://github.com/AIcrowd/food-recognition-challenge-starter-kit) or a [PyTorch implementation with mmdet] (https://gitlab.aicrowd.com/nikhil_rayaprolu/food-pytorch-baseline).
