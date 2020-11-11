@@ -17,4 +17,4 @@
 
 This repository includes Notebooks and code relevant to this challenge.
 
-Also see the [official starter kit](http://github.com/AIcrowd/food-recognition-challenge-starter-kit) or a [PyTorch implementation with mmdet] (https://gitlab.aicrowd.com/nikhil_rayaprolu/food-pytorch-baseline).
+Also see the [official starter kit](http://github.com/AIcrowd/food-recognition-challenge-starter-kit) or a [PyTorch implementation with mmdet](https://gitlab.aicrowd.com/nikhil_rayaprolu/food-pytorch-baseline).
