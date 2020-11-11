@@ -1,4 +1,5 @@
 # AI Crowd Food Recognition Challenge 
+![AIcrowd-Logo](https://raw.githubusercontent.com/AIcrowd/AIcrowd/master/app/assets/images/misc/aicrowd-horizontal.png)
 
 ## The Challenge
 
